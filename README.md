@@ -1,3 +1,3 @@
 # libft
 
-Ca va pa la tête
+Premier projet, consiste a créer ma premiere librairie de fonction :)
